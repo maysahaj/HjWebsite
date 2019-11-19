@@ -764,7 +764,7 @@ footer .footerend span{
 
 /*/*linkspage csss*/
 .arrangePage .row .card .card-header{
-    height:auto;
+    height:180px;
     background: #f7f2e7;
     color:#8a6d3b;
     font-weight: bold;
@@ -772,7 +772,7 @@ footer .footerend span{
 }
 .arrangePage .row .card .card-header h2{
     color:#8a6d3b;
-    font-size: 23px;
+    font-size: 20px;
     font-weight:bold;
 }
 .arrangePage .row .card .card-header .float-left h3{
@@ -819,6 +819,17 @@ footer .footerend span{
 }
 
 /*/*slider in linkpage/**/
+
+
+/*/**/
+.arrangePage .row .card .card-body .info-card ul li a{
+    font-size: 12px;
+  }
+  .arrangePage .row .card .card-body .info-card .ads_s{
+    font-size: 13px;
+    color:#000;
+    font-weight: bold;
+  }
 
 
 
