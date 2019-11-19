@@ -795,12 +795,30 @@ footer .footerend span{
 }
 
 /*/*الروابط center*/
-.form-row, .form-row{
+.form-row>.col, .form-row>[class*=col-] {
     display: flex;
     margin: 0 auto;
-    padding-right: 5px;
-    padding-left: 5px;
+
 }
+
+.arrangePage .row .card .card-body{
+    background: #fff;
+    height: auto;
+}
+.arrangePage .row .card .card-body .input-group-text,.arrangePage .row .card .card-body input{
+    border-radius :0px;
+    font-size: 14px;
+}
+.arrangePage .row .card .card-body input{
+    border-radius :0px;
+    height: 35px;
+}
+.arrangePage .row .card .card-body .info-card{
+  color: #000;
+  font-size: 25px;
+}
+
+/*/*slider in linkpage/**/
 
 
 
