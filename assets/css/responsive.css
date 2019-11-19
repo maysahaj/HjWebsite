@@ -1,0 +1,67 @@
+@media (max-width:768px) { 
+    header {      
+        display: none;
+    }
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        cursor: pointer;
+        border-radius: none;
+        border: 1px solid #ffff;
+    }
+    .section .row .card{
+        display: none;
+    }
+    .section .row .card label {
+
+        text-align: right;
+    }
+    .categories{
+        display: none;
+    }
+    .nav-side{
+        display: none;
+    }
+   .owl-carousel .item h2{
+ 
+    top:138px;
+   }
+   footer .cities {
+    font-size: 14px;
+    margin-top:15px;  
+    
+  }  
+  footer .row ul li a {
+    color: #0473c0;
+    font-size: 12px;
+}
+footer {
+    padding-top :20px;}
+
+
+footer .connect-us ul li a {
+	width: 30px;
+	height: 30px;
+	line-height: 20px;
+	font-size: 13px;
+}
+footer .footerend span {
+    font-size: 12px;
+}
+.lg-table{
+    display: none;
+}
+.sm-table {
+    display: block;
+}
+.contact .row .row1{
+    margin-top: 13px;
+}
+.contact .row textarea{
+    width: 91%;
+    margin-left:15px;
+}
+.contact .row  button.btn-submit{
+    width: 92%;
+}
+
+}
+

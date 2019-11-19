@@ -1,0 +1,56 @@
+.general-table {
+    color:#000;
+    border-bottom: 1px solid #afb4b4;
+   margin: 0 auto;
+   overflow: hidden;
+   width: 97%;
+}
+
+.general-table a:hover{
+    text-decoration: none;
+}
+
+.general-table thead {
+    background-color: #0473c0;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 3px;
+    position: relative;
+}
+.general-table thead tr td {
+    text-align: center;
+    line-height: 33px;
+}
+.general-table thead h2{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: inherit;
+}
+
+.general-table tr td.user {
+    font-size: 11px;
+    text-align: center;
+    width: 140px;
+}
+.general-table tbody tr td a.ads-user {
+    color: #756f6f;
+    display: block;
+    margin: 0 auto;
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.general-table tr td.map {
+    font-size: 12px;
+    text-align: center;
+    width: 80px;
+    font-weight: bold;
+}
+.general-table tr td.time {
+    font-size: 11px;
+    text-align: center;
+    width: 92px;

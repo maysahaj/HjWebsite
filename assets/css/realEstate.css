@@ -1,0 +1,51 @@
+.section h1 a{
+    color:#fff;
+}
+.ads_s {
+    margin: 25px auto;
+    overflow: hidden;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+.ads_s li {
+    color: #858585;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0 11px;
+}
+.ads_s li em {
+    color: #777;
+    font-style: inherit;
+    line-height: 19px;
+    padding-left: 2px;
+    padding-right: 2px;
+    float: left;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.ads_s li a {
+    display: inline-block;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-bottom: 1px dashed #ccc;
+    padding: 4px 2px;
+    font-weight:700;
+    font-size: 15px;
+    color: #337ab7;
+}
+.ads_s li i {
+    color: #8e8e8e;
+    float: right;
+    margin-top: 6px;
+    text-align: center;
+    width: 17px;
+
+}
+.section a:hover{
+    text-decoration: none;
+}
+
