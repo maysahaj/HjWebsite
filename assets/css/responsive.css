@@ -7,9 +7,10 @@
         border-radius: none;
         border: 1px solid #ffff;
     }
-    .section .row .card{
+    .section .row .cardHidden{
         display: none;
     }
+
     .section .row .card label {
 
         text-align: right;
@@ -62,6 +63,42 @@ footer .footerend span {
 .contact .row  button.btn-submit{
     width: 92%;
 }
+.arrangePage .row .card {
+    width:20rem
+}
+.arrangePage{
+    margin-right: 15px;
+}
+.arrangePage .row .card .card-body .info-card {
+    color: #000;
+    font-size: 20px;
+}
+.arrangePage .row .row1{
+    margin-top: 10px;
+}
+.arrangePage .row .buttonShare{
+    margin-right: 20px;
+}
+.commentSection label {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+.col-lg-3 .cardAds h4 {
+    margin-right: 50px;
+
+}
+.col-lg-3 .card img {
+    width: 180px;
+    margin-right: 50px;
+
+}
+.col-lg-3 .cardAds img {
+    width: 180px;
+    margin-right: 70px;
+    height: 100px;
+}
+
 
 }
 

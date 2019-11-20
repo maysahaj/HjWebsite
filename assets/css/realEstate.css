@@ -1,20 +1,20 @@
 .section h1 a{
     color:#fff;
 }
-.ads_s {
+.section .row .col-lg-9 .ads_s {
     margin: 25px auto;
     overflow: hidden;
     padding-left: 0;
     padding-right: 0;
     padding-top: 0;
 }
-.ads_s li {
+.section .row .col-lg-9 .ads_s li {
     color: #858585;
     list-style: outside none none;
     margin: 0;
     padding: 0 11px;
 }
-.ads_s li em {
+.section .row .col-lg-9 .ads_s li em {
     color: #777;
     font-style: inherit;
     line-height: 19px;
@@ -25,7 +25,7 @@
     margin-top: 5px;
 }
 
-.ads_s li a {
+ .section .row .col-lg-9 .ads_s li a {
     display: inline-block;
     width: 100%;
     overflow: hidden;
@@ -37,7 +37,7 @@
     font-size: 15px;
     color: #337ab7;
 }
-.ads_s li i {
+.section .row .col-lg-9 .ads_s li i {
     color: #8e8e8e;
     float: right;
     margin-top: 6px;
@@ -48,4 +48,54 @@
 .section a:hover{
     text-decoration: none;
 }
+/*/**/
+.section .row .col-lg-9 .ads_ss {
+    margin: 25px auto;
+    overflow: hidden;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+.section .row .col-lg-9 .ads_ss li {
+    color: #858585;
+    list-style: outside none none;
+    margin: 0;
+    padding: 0 11px;
+}
+.section .row .col-lg-9 .ads_ss li em {
+    color:#000;
+    font-style: inherit;
+    line-height: 19px;
+    padding-left: 2px;
+    padding-right: 2px;
+    float: left;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+ .section .row .col-lg-9 .ads_ss li a {
+    display: inline-block;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-bottom: 1px dashed #ccc;
+    font-weight:700;
+    font-size: 12px;
+    color: #337ab7;
+}
+.section .row .col-lg-9 .ads_ss li i {
+    float: right;
+    margin-top: 6px;
+    text-align: center;
+    width: 18px;
+    color: #337ab7;
+
+}
+.section .row .col-lg-9 .ads_ss .red{
+    color: red;
+
+}
+
+
 
