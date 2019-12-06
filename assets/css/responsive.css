@@ -371,6 +371,18 @@ footer .footerend span {
 .arrangePage .row .card {
     margin: 0 auto;
 }
+.section .row .cardHidden{
+    display: none;
+}
+.card-img-top {
+    width: 170%;
+    display: flex;
+    margin: 0 auto;
+    height: 200px;
+}
+.col-lg-4 .cardAds .dots{
+    display:none;
+}
 
 }
 
