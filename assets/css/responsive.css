@@ -1,3 +1,4 @@
+
 @media(width: 1024px){
     .app-buttons img {
         border-radius: 15px;
@@ -73,6 +74,7 @@
 
 	
 }
+
 
 
 @media (max-width:992px) { 
@@ -249,6 +251,10 @@ footer .footerend span {
     font-size: 16px;
     width: 100%;
 }
+.section .row .card {
+    color: black;
+    width: 20rem;
+}
 
 
 }
@@ -385,5 +391,6 @@ footer .footerend span {
 }
 
 }
+
 
 
