@@ -842,25 +842,22 @@ footer .footerend span{
 
 
 }
-.col-lg-3 .cardUser{
-    font-size: 16px;
+.user_ads h3.cardUser{
+    font-size: 15px;
     text-align: center;
 
 }
 
-.col-lg-3 .card img{
-    width: 180px;
 
-}
-.col-lg-3 .card .clearfix{
+.col-lg-4 .card .clearfix{
     font-size: 14px;
 }
-.col-lg-3 .requests a{
+.col-lg-4 .requests a{
     border-radius: 0px;
     padding: 6px 53px;
     font-size: 16px;
 }
-.col-lg-3 .requests .btn-success{
+.col-lg-4 .requests .btn-success{
     font-size: 20px;
 
 
@@ -925,15 +922,15 @@ footer .footerend span{
 .btn-dislike em {
     background-color: #717171;
 }
-.col-lg-3 .cardAds {
+.col-lg-4 .cardAds {
     width: 14rem;
     background: #f8f7f7;
 }
-.col-lg-3 .cardAds h2{
+.col-lg-4 .cardAds h2{
     font-size: 16px;
     color: #337ab7;
 }
-.col-lg-3 .cardAds h4{
+.col-lg-4 .cardAds h4{
     font-size: 17px;
     background: #337ab7;
     font-weight: bold;
@@ -942,7 +939,7 @@ footer .footerend span{
 
     padding: 6px 12px;
 }
-.col-lg-3 .cardAds mark{
+.col-lg-4 .cardAds mark{
     padding: 3px 9px;
    font-weight: bold;
    margin-left: 5px;
@@ -950,7 +947,7 @@ footer .footerend span{
    background: #337ab7;
 
 }
-.col-lg-3 .cardAds .dots{
+.col-lg-4 .cardAds .dots{
     font-size: 17px;
     color: #565d64;
 }
@@ -963,6 +960,24 @@ footer .footerend span{
     display: flex;
     margin:0 auto;
     padding: 0 auto;
-    width:100px;
+    width:200px;
 
 }
+.arrangePage{
+    display: flex;
+    margin:0 auto;
+
+}
+.user_ads h3{
+    font-size:20px;
+    font-weight: bold;
+
+
+}
+.origin {
+    font-size:15px;
+    font-weight: bold;
+
+
+}
+
