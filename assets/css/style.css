@@ -60,7 +60,6 @@ header .nav-link {
    font-weight: bold;
     padding:10px 10px;
     border-radius: 10px;
-    padding-right: 45px;
     border:none;
     outline: none;
 }
@@ -71,12 +70,14 @@ header .nav-link {
     
  }
 nav .fas{
-    position: absolute;
-    top:20px;
-    right:25px;
-    font-size: 28px;
+    
+    font-size: 20px;
     color: #5cbb5c;
     outline: none;
+}
+.adds-btn{
+    display: flex;
+    margin: right auto;
 }
 .section{
     width:100%;
@@ -953,4 +954,10 @@ footer .footerend span{
 .col-lg-3 .cardAds .dots{
     font-size: 17px;
     color: #565d64;
+}
+.app-buttons img {
+    border-radius: 15px;
+    width:170px;
+    display: flex;
+    margin: 0 auto;
 }
