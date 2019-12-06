@@ -924,21 +924,24 @@ footer .footerend span{
     background-color: #717171;
 }
 .col-lg-4 .cardAds {
-    width: 14rem;
     background: #f8f7f7;
 }
 .col-lg-4 .cardAds h2{
     font-size: 16px;
     color: #337ab7;
+    font-weight: bold;
 }
 .col-lg-4 .cardAds h4{
     font-size: 17px;
     background: #337ab7;
     font-weight: bold;
     color:#fff;
-    width: 200px;
-
+    width:80%;
     padding: 6px 12px;
+    margin:0 auto;
+}
+.col-lg-4 .cardAds .content{
+    margin:0 auto;
 }
 .col-lg-4 .cardAds mark{
     padding: 3px 9px;
@@ -979,6 +982,12 @@ footer .footerend span{
     font-size:15px;
     font-weight: bold;
 
+
+}
+.card-img-top {
+    width: 80%;
+    display: flex;
+    margin:0 auto;
 
 }
 
