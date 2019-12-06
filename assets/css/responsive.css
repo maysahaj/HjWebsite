@@ -193,9 +193,7 @@ footer .footerend span {
 .contact .row  button.btn-submit{
     width: 92%;
 }
-.arrangePage .row .card {
-    width:20rem
-}
+
 .arrangePage{
     margin-right: 15px;
 }
@@ -369,6 +367,9 @@ footer .footerend span {
 .arrangePage .card{
     margin-right: 15px;
     margin-right: 200px;
+}
+.arrangePage .row .card {
+    margin: 0 auto;
 }
 
 }
