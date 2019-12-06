@@ -76,8 +76,7 @@ nav .fas{
     outline: none;
 }
 .adds-btn{
-    display: flex;
-    margin: right auto;
+    margin-right:500px;
 }
 .section{
     width:100%;
@@ -957,7 +956,6 @@ footer .footerend span{
 }
 .app-buttons img {
     border-radius: 15px;
-    width:170px;
     display: flex;
     margin: 0 auto;
 }
