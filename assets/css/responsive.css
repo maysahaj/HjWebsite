@@ -59,6 +59,12 @@
 .owl-carousel .item h2 {
     top: 70px;
 }
+.col-lg-4 .requests .btn-success,.col-lg-4 .requests .btn-danger,.col-lg-4 .requests .btn-info{
+    font-size: 15px;
+    width:100%;
+
+
+}
 
 	
 }
