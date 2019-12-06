@@ -234,6 +234,12 @@ footer .footerend span {
     margin: 0 auto;
 
 }
+.col-lg-3 .requests a {
+    border-radius: 0px;
+    padding: 6px 53px;
+    font-size: 16px;
+    width: 100%;
+}
 
 
 }
