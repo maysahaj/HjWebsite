@@ -989,9 +989,17 @@ footer .footerend span{
 
 }
 
+
 .newtable .name{
-    background: #3a7fe6;
+    background: #337ab7;
     color:#fff;
+    height: 50px;
+}
+.newtable .name h2{
+    color:#fff;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 15px;;
 }
 .newtable .row img{
     width:95%;
@@ -1019,6 +1027,9 @@ footer .footerend span{
     color: rgba(150, 3, 3, 0.808);
     font-size: 16px;
     font-weight: bold;
+}
+.newtable{
+    display: none;
 }
 
 

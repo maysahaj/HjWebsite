@@ -255,6 +255,9 @@ footer .footerend span {
     color: black;
     width: 20rem;
 }
+.newtable{
+    display: inline;
+}
 
 
 }
