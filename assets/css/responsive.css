@@ -296,6 +296,9 @@ footer .footerend span {
 .table-view{
     display:inline;
 }
+.newtable{
+    padding-top:100px;
+}
 
 
 }
