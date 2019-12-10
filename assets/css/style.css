@@ -1046,3 +1046,6 @@ footer .footerend span{
 .ads label{
     color:#000;
 }
+.table-view{
+    display:none;
+}
