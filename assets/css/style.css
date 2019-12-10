@@ -1049,3 +1049,13 @@ footer .footerend span{
 .table-view{
     display:none;
 }
+.login-user {
+    color:#333 ;
+    width:70%;
+    border:1px solid #ced3cf;
+    display: flex;
+    margin: 0 auto; 
+    padding:20px;
+    border-radius: 6px;
+}
+

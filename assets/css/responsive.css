@@ -299,6 +299,13 @@ footer .footerend span {
 .newtable{
     padding-top:100px;
 }
+.login-user {
+    color:#333 ;
+    width:100%;
+    display: flex;
+    margin: 0 auto; 
+    padding:20px;
+}
 
 
 }
