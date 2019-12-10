@@ -279,11 +279,12 @@ footer .footerend span {
 .pag-device  .pagination{
     display: flex;
     margin: 0 auto;
+    margin-left:380px;
 
 }
 .pag-device .pagination a {
     height:30px;
-    width: 30px ;
+    width: 35px ;
   color: #3a7fe6;
   text-decoration: none;
   font-size:16px;
