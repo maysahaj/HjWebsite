@@ -260,7 +260,38 @@ footer .footerend span {
 }
 .pagination{
     display: flex;
-    margin:0 auto;
+    margin-right: 10%;
+
+}
+.pagination a {
+    height:40px;
+    width: 40px ;
+  color: #3a7fe6;
+  text-decoration: none;
+  font-size:16px;
+  border-radius: 20%;
+  border: 1px solid #E8E9EC;
+  text-align: center;
+  line-height: 26px;
+
+
+}
+.pag-device  .pagination{
+    display: flex;
+    margin-right: -12%;
+
+}
+.pag-device .pagination a {
+    height:40px;
+    width: 40px ;
+  color: #3a7fe6;
+  text-decoration: none;
+  font-size:16px;
+  border-radius: 20%;
+  border: 1px solid #E8E9EC;
+  text-align: center;
+  line-height: 26px;
+
 
 }
 
