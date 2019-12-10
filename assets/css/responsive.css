@@ -258,6 +258,11 @@ footer .footerend span {
 .newtable{
     display: inline;
 }
+.pagination{
+    display: flex;
+    margin:0 auto;
+
+}
 
 
 }
