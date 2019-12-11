@@ -1058,6 +1058,9 @@ footer .footerend span{
     padding:20px;
     border-radius: 6px;
 }
-
+.submit-user{
+    display: flex;
+    margin: 0 auto;
+}
 
 
