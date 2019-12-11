@@ -1062,5 +1062,8 @@ footer .footerend span{
     display: flex;
     margin: 0 auto;
 }
+.pass input{
+    width:500px;
+}
 
 
